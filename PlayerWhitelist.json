@@ -156,11 +156,11 @@
       "level": 1,
       "tags": [
         {
-          "text": "voidware-helper",
+          "text": "voidwarehelper",
           "color": [
-            0,
-            0,
-            139
+            249,
+            135,
+            197
           ]
         }
       ]
