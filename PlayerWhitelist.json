@@ -321,7 +321,7 @@
       "level": 1,
       "tags": [
         {
-          "text": ".gg/renderintents",
+          "text": "renderintents",
           "color": [
             210,
             43,
@@ -331,7 +331,7 @@
       ]
     },
     "880304650769813515": {
-      "hash": "d07f19e8c3aa18c03b3eb8cc9f9bd945443b57f802f367eff93c7fcb2c45e3ef6e1b63e973bbf1b77bf18dc29941f77716c9682ca77edfabea46f24aa6de9635",
+      "hash": "b1767d24bbfde962e92d0b19c6e802215f006a8904403f7971f055178534e9cac389920b31791b2ad9c823eaff7325ab6e86cef43c771d479018e273f6d26941",
       "attackable": false,
       "level": 1,
       "tags": [
