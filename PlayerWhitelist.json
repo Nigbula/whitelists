@@ -344,6 +344,21 @@
           ]
         }
       ]
+    },
+    "1146168300150214716": {
+      "hash": "dd5453b426eec097b3d95a62ee72127f381283bb9f090bcd70f2a4d84188d5c2177f982bc1c24b8adcfc2ce81207cbca9ea163eea979630281a20b468ebaba2f",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "Salad (hates faggots)",
+          "color": [
+            48,
+            25,
+            52
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {},
