@@ -30,21 +30,6 @@
         }
       ]
     },
-    "1146168300150214716": {
-      "hash": "cab9c63da7b041bf79614091458fb84f0b4e41eec0b34f10acbbbe29debc36f9ee1554f72ee0d431fc8750f995bde2c03a04a5520106a19e393e0cfdb4bf5f7b",
-      "attackable": false,
-      "level": 2,
-      "tags": [
-        {
-          "text": "SALAD",
-          "color": [
-            0,
-            0,
-            255
-          ]
-        }
-      ]
-    },
     "691944570312851556": {
       "hash": "9df10ca007ba765400f3ce7aa3b4a8ad10e4718400aa2570daf91ad081f28653af786ea26625596e459333d4f5016860feeb7389c475cadf89b2002391e786ad",
       "attackable": false,
@@ -106,7 +91,7 @@
       ]
     },
     "981187721647243274": {
-      "hash": "a372d24bdfe7d71c06dad9c0518c25cdb20182e7da48f0a50560b7e19625e7122050f35c92ff7b4ccd0d956acce8be003968cb86a7011949111328df43733130",
+      "hash": "34f9b3a2caacc04b3d20d86e30cc3993405a3782ee05c60894326a36d1c7c409787d056ab8a70df48a88d140950fe1c06bfb1892749ade086770635941a5987f",
       "attackable": false,
       "level": 1,
       "tags": [
