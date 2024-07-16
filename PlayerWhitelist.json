@@ -225,21 +225,6 @@
         }
       ]
     },
-    "1113988383086215240": {
-      "hash": "de52eb91561d5bbbc03fa71b0928ed748fcff28d07aedd0bbc5b3570b44afcc6474027d03c32b2877fec5d56011efa3626d1be5f4266e6882b773b5a21d36537",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "AC MOD",
-          "color": [
-            160,
-            34,
-            160
-          ]
-        }
-      ]
-    },
     "1252635575916302407": {
       "hash": "333034b43646be249f336d615311181cb56a121cc28caa56904a2951b9476f55f081fafe4542f08b6c282ef447fa69b82a74ceacb96a649bf3fc6819c7755904",
       "attackable": false,
