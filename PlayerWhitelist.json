@@ -61,16 +61,16 @@
       ]
     },
     "1247287578714177597": {
-      "hash": "2a6775e9b968955914277cddc1bb13f7bcaa40d81bc11ad47de5c2f90b21fee7537a10b5ba47187eb33b75bba8b38fa6737ab6eabf73efe328d1d2c32e8eac62",
+      "hash": "5a97f744cce2aac02b070cb5270f1d9ce8ea5b9f7fab0c7a49369d190bb0671d6f2d4dcabfe34d5edf99289760d1ffc37157fe2ebd6126a7253afe78ef17b0b5",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "VOIDWARE PRIVATE USER",
+          "text": "Voidware Private User",
           "color": [
-            25,
-            25,
-            112
+            255,
+            20,
+            147
           ]
         }
       ]
