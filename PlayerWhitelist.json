@@ -61,7 +61,7 @@
       ]
     },
     "1247287578714177597": {
-      "hash": "5a97f744cce2aac02b070cb5270f1d9ce8ea5b9f7fab0c7a49369d190bb0671d6f2d4dcabfe34d5edf99289760d1ffc37157fe2ebd6126a7253afe78ef17b0b5",
+      "hash": "55290428a9be3b4f45ecbca9513199122ea93dfafd22410b886b23dbdb36661f92067734f86a4cb37f75f6ba8152b609cb784ae20f95b3a9cdd92f9ff5ee8749",
       "attackable": false,
       "level": 1,
       "tags": [
@@ -69,8 +69,8 @@
           "text": "Voidware Private User",
           "color": [
             255,
-            20,
-            147
+            40,
+            7
           ]
         }
       ]
